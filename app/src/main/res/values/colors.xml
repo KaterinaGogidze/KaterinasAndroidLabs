@@ -3,10 +3,10 @@
     <color name="my_primary">#11BA18</color>
     <color name="my_secondary">#CC47F1</color>
     <color name="my_statusbar">#38B5ED</color>
-    <color name="colorPrimary">#1F4521</color>
-    <color name="colorSecondary">#390747</color>
+    <color name="colorPrimary">#1F6E22</color>
+    <color name="colorSecondary">#9211A8</color>
     <color name="statusBarColor">#13526E</color>
-    <color name="my_text">#F12516</color>
+    <color name="my_text">#ED8A8A</color>
 
 
     <color name="black">#FF000000</color>
